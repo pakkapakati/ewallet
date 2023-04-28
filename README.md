@@ -51,7 +51,7 @@ https://ewallet-rest-api.herokuapp.com/v1/docs/
 https://ewallet-rest-api.herokuapp.com/
 
 ## API Postman Collection for Testing
-https://github.com/mmucito/ewallet-rest-api/blob/master/ewallet.postman_collection.json
+https://github.com/pakkapakati/ewallet-rest-api/blob/master/ewallet.postman_collection.json
 
 ## Testing Locally...
 
